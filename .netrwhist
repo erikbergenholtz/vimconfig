@@ -1,4 +1,5 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =2
-let g:netrw_dirhist_1='/home/ebz/.vim/ftplugin'
-let g:netrw_dirhist_2='/home/ebz/programming/alpacify/alpacify/templates/alpacify'
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/home/ebz/phd'
+let g:netrw_dirhist_2='/home/ebz/phd/ipv6scanning-paper'
+let g:netrw_dirhist_3='/home/ebz/courses/dv1563_linux/git.d/sj_unix/01'
