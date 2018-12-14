@@ -1,4 +1,4 @@
-color desert
+color slate
 set autoindent
 set tabstop=4
 set shiftwidth=4
