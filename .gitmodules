@@ -1,0 +1,3 @@
+[submodule "pack/plugins/start/vim-syntax-shakespeare"]
+	path = pack/plugins/start/vim-syntax-shakespeare
+	url = git@github.com:pbrisbin/vim-syntax-shakespeare.git
