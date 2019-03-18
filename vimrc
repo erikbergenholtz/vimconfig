@@ -1,3 +1,4 @@
+execute pathogen#infect()
 color delek
 set modeline
 set ff=unix

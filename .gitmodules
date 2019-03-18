@@ -1,3 +1,6 @@
 [submodule "pack/plugins/start/vim-syntax-shakespeare"]
 	path = pack/plugins/start/vim-syntax-shakespeare
 	url = git@github.com:pbrisbin/vim-syntax-shakespeare.git
+[submodule "bundle/vim-ps1"]
+	path = bundle/vim-ps1
+	url = https://github.com/PProvost/vim-ps1.git
