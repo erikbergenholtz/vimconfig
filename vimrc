@@ -1,15 +1,17 @@
 execute pathogen#infect()
-color delek
+filetype plugin on
+runtime ftplugin/man.vim
+color dracula
 set modeline
 set ff=unix
 set number
 set list
-set listchars=tab:!·,trail:~,extends:$,eol:¬
+set listchars=tab:»\ ,trail:~,extends:$,eol:¬
 set nowrap
-set cursorline
 set mouse=a
 set scrolloff=10
-hi CursorLine term=bold cterm=bold
+set textwidth=79
 hi ColorColumn ctermbg=1 guibg=#2c2d27
 let &colorcolumn=join(range(80,80),",")
-filetype plugin on
+hi CursorLine term=bold cterm=bold
+set cursorline

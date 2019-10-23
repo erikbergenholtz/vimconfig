@@ -8,3 +8,5 @@ set softtabstop=2
 set shiftwidth=2
 set expandtab
 set foldmethod=marker
+setl tw=76
+setl fo+=aw
